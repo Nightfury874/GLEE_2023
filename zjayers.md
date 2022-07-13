@@ -21,7 +21,7 @@ You can use the website to generate badges: https://shields.io/
 - Fun-Fact: I was a mechanical engineering before becoming a software engineer.
 - How to reach me: __z.ayers@icloud.com__
 
----
+<!-- --- -->
 
 **Languages and Tools:**
 
